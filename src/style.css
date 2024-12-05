@@ -16,3 +16,15 @@ footer section ul a {
 .show {
 	height: 100%;
 }
+
+button {
+	background: white;
+	color: #000000;
+	border: none;
+}
+
+button.liked {
+	background: #000000;
+	color: white;
+	border: none;
+}
